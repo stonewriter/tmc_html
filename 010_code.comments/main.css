@@ -1,0 +1,4 @@
+/*  fügt allen Bildern einen Rahmen hinzu */
+img {
+    border: 10px groove orange;
+}
